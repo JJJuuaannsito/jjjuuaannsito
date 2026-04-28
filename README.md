@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**JJJuuaannsito/jjjuuaannsito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan from Uruguay 🇺🇾
 
-Here are some ideas to get you started:
+Focused on offensive security, mainly web pentesting and red teaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Python to build tools that support my workflow, such as network scanners and CLI utilities.
+
+## 🔐 Areas of interest
+
+- Web application security
+- Red teaming
+- Network analysis
+- Offensive tooling
+
+## 🛠️ Tech
+
+- Python
+- Networking fundamentals
+- CLI tools (Typer, Rich)
+
+## 🚀 Projects
+
+- 🔎 Port Scanner – multithreaded scanner with service detection and CLI
+
+## 📚 Currently learning
+
+- Advanced web exploitation techniques
+- Network protocols and internals
+- Building better offensive tools
