@@ -22,6 +22,7 @@ I use Python to build tools that support my workflow, such as network scanners a
 ## 🚀 Projects
 
 - 🔎 Port Scanner – multithreaded scanner with service detection and CLI
+- 📝 IDS Logs Scanner - IDS for detecting suspicious activity in web server access logs
 
 ## 📚 Currently learning
 
