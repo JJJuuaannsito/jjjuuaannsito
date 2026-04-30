@@ -24,6 +24,7 @@ I use Python to build tools that support my workflow, such as network scanners a
 
 - 🔎 Port Scanner – multithreaded scanner with service detection and CLI
 - 📝 IDS Logs Scanner - IDS for detecting suspicious activity in web server access logs
+- 💻 IDS LAB - IDS for real-time HTTP traffic monitoring 
 
 ## 📚 Currently learning
 
