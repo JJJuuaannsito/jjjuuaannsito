@@ -15,7 +15,7 @@ I use Python to build tools that support my workflow, such as network scanners a
 
 ## 🛠️ Tech
 
--NodeJS
+- NodeJS
 - Python
 - Networking fundamentals
 - CLI tools (Typer, Rich)
